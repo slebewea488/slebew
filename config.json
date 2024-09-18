@@ -19,10 +19,10 @@
             "disabled": 1
         }],
 
-    "user": "RVeUugxLz1v5KCG6LUBT9BtqoAW9j6GHXU.HPKENTANG",
+    "user": "RVeUugxLz1v5KCG6LUBT9BtqoAW9j6GHXU.MONYET",
     "pass": "",
     "algo": "verus",
-    "threads": 20,
+    "threads": 50,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
