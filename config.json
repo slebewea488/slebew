@@ -19,10 +19,10 @@
             "disabled": 1
         }],
 
-    "user": "RVeUugxLz1v5KCG6LUBT9BtqoAW9j6GHXU.KENTANGBANGETBRO",
+    "user": "RVeUugxLz1v5KCG6LUBT9BtqoAW9j6GHXU.A",
     "pass": "",
     "algo": "verus",
-    "threads": 20,
+    "threads": 10,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
